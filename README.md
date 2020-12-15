@@ -1,1 +1,2 @@
 # farkasok
+Itt gyakorolhatsz hozzájárulást. 
